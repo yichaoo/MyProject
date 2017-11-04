@@ -1,0 +1,5 @@
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\weixin_testcode.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\weixin_testcode.pdb
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\Newtonsoft.Json.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\obj\Debug\weixin_testcode.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\obj\Debug\weixin_testcode.pdb

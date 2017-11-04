@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="J:\2017\weixin_test\publish" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="Web.config" publishTime="10/12/2017 15:13:32" />
+    <file relUrl="js/zepto.min.js" publishTime="10/10/2017 15:41:41" />
+    <file relUrl="js/demo.js" publishTime="10/10/2017 16:45:01" />
+    <file relUrl="demo_whyyy.aspx" publishTime="10/12/2017 15:16:02" />
+    <file relUrl="test_weixin_jsapi.aspx" publishTime="10/12/2017 14:52:14" />
+    <file relUrl="js/share.min.css" publishTime="10/11/2017 11:41:51" />
+    <file relUrl="demo_sharemsg.aspx" publishTime="10/10/2017 16:47:11" />
+    <file relUrl="APITest.aspx" publishTime="07/27/2017 18:29:56" />
+    <file relUrl="bin/weixin_testcode.pdb" publishTime="10/12/2017 15:13:23" />
+    <file relUrl="js/jquery.share.min.js" publishTime="10/11/2017 11:26:06" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="06/20/2017 10:34:29" />
+    <file relUrl="js/jweixin-1.0.0.js" publishTime="10/10/2017 14:03:40" />
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/03/2014 20:33:56" />
+    <file relUrl="Handler.ashx" publishTime="10/10/2017 10:10:56" />
+    <file relUrl="js/jquery.min.js" publishTime="10/11/2017 11:41:01" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="06/20/2017 10:34:29" />
+    <file relUrl="bin/weixin_testcode.dll" publishTime="10/12/2017 15:13:23" />
+    <file relUrl="Default.aspx" publishTime="06/22/2017 17:22:49" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="06/20/2017 10:34:29" />
+  </publishProfile>
+</publishData>
