@@ -1,0 +1,8 @@
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\bin\helloworld.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\bin\helloworld.pdb
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\obj\Debug\helloworld.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\obj\Debug\helloworld.pdb
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\obj\Debug\helloworld_server.csprojResolveAssemblyReference.cache
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\bin\newtonsoft.json.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\bin\OracleDAL.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld\bin\OracleDAL.pdb

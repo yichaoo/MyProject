@@ -1,0 +1,5 @@
+f:\documents\visual studio 2010\Projects\helloworld\OracleTest\bin\OracleTest.dll
+f:\documents\visual studio 2010\Projects\helloworld\OracleTest\bin\OracleTest.pdb
+f:\documents\visual studio 2010\Projects\helloworld\OracleTest\obj\Debug\OracleTest.dll
+f:\documents\visual studio 2010\Projects\helloworld\OracleTest\obj\Debug\OracleTest.pdb
+f:\documents\visual studio 2010\Projects\helloworld\OracleTest\obj\Debug\OracleTest.csprojResolveAssemblyReference.cache

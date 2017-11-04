@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld_server", "helloworld\helloworld_server.csproj", "{1A098207-8B16-4431-8BF2-793250F8CCC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "helloworld_client", "helloworld_client\helloworld_client.csproj", "{39F850AE-323A-4986-AD64-72D451F448B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleTest", "OracleTest\OracleTest.csproj", "{5DF017A4-1126-4B04-85A5-BBDBD2FA1C26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OracleDAL", "OracleDAL\OracleDAL.csproj", "{55BD546C-F7C0-4476-A4D6-9B4051DE3A84}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A098207-8B16-4431-8BF2-793250F8CCC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A098207-8B16-4431-8BF2-793250F8CCC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A098207-8B16-4431-8BF2-793250F8CCC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A098207-8B16-4431-8BF2-793250F8CCC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39F850AE-323A-4986-AD64-72D451F448B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F850AE-323A-4986-AD64-72D451F448B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F850AE-323A-4986-AD64-72D451F448B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F850AE-323A-4986-AD64-72D451F448B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DF017A4-1126-4B04-85A5-BBDBD2FA1C26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF017A4-1126-4B04-85A5-BBDBD2FA1C26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF017A4-1126-4B04-85A5-BBDBD2FA1C26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF017A4-1126-4B04-85A5-BBDBD2FA1C26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55BD546C-F7C0-4476-A4D6-9B4051DE3A84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55BD546C-F7C0-4476-A4D6-9B4051DE3A84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55BD546C-F7C0-4476-A4D6-9B4051DE3A84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55BD546C-F7C0-4476-A4D6-9B4051DE3A84}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

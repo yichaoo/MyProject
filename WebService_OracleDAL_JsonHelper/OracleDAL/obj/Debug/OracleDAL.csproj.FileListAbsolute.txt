@@ -1,0 +1,5 @@
+f:\documents\visual studio 2010\Projects\helloworld\OracleDAL\bin\Debug\OracleDAL.dll
+f:\documents\visual studio 2010\Projects\helloworld\OracleDAL\bin\Debug\OracleDAL.pdb
+f:\documents\visual studio 2010\Projects\helloworld\OracleDAL\bin\Debug\Oracle.ManagedDataAccess.dll
+f:\documents\visual studio 2010\Projects\helloworld\OracleDAL\obj\Debug\OracleDAL.dll
+f:\documents\visual studio 2010\Projects\helloworld\OracleDAL\obj\Debug\OracleDAL.pdb

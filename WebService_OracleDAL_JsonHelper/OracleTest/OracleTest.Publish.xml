@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="J:\发布\Test_oracle" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="配置文件1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/Newtonsoft.Json.dll" publishTime="08/03/2014 20:33:56" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="09/13/2017 15:20:45" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="09/13/2017 15:20:45" />
+    <file relUrl="bin/Oracle.ManagedDataAccess.dll" publishTime="09/13/2017 16:00:14" />
+    <file relUrl="Web.config" publishTime="09/14/2017 16:56:52" />
+    <file relUrl="Default.aspx" publishTime="09/13/2017 15:20:45" />
+    <file relUrl="bin/OracleTest.pdb" publishTime="09/14/2017 16:56:25" />
+    <file relUrl="bin/OracleTest.dll" publishTime="09/14/2017 16:56:25" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="09/13/2017 15:20:45" />
+  </publishProfile>
+</publishData>

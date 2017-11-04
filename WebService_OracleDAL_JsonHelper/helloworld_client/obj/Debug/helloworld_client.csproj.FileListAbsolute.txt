@@ -1,0 +1,5 @@
+f:\documents\visual studio 2010\Projects\helloworld\helloworld_client\bin\helloworld_client.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld_client\bin\helloworld_client.pdb
+f:\documents\visual studio 2010\Projects\helloworld\helloworld_client\bin\newtonsoft.json.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld_client\obj\Debug\helloworld_client.dll
+f:\documents\visual studio 2010\Projects\helloworld\helloworld_client\obj\Debug\helloworld_client.pdb
