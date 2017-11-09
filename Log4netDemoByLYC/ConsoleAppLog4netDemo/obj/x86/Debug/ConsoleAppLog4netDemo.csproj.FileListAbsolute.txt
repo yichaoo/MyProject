@@ -1,0 +1,6 @@
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\bin\Debug\ConsoleAppLog4netDemo.exe
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\bin\Debug\ConsoleAppLog4netDemo.pdb
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\bin\Debug\log4net.dll
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\obj\x86\Debug\ConsoleAppLog4netDemo.exe
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\obj\x86\Debug\ConsoleAppLog4netDemo.pdb
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\bin\Debug\log4net.config

@@ -1,0 +1,173 @@
+[Header]
+记录时间：2017-11-09 18:47:25,449 线程ID:[6] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 18:47:25,733 线程ID:[6] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+[Footer]
+[Header]
+记录时间：2017-11-09 18:51:29,325 线程ID:[11] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 18:51:29,347 线程ID:[11] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 18:51:47,535 线程ID:[11] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/favicon.ico
+System.Web.HttpException: 文件不存在。
+   在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 18:51:48,019 线程ID:[11] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/Defaut.aspx
+System.Web.HttpException: 文件“/Defaut.aspx”不存在。
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.System.Web.IHttpHandlerFactory2.GetHandler(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.HttpApplication.MapHttpHandler(HttpContext context, String requestType, VirtualPath path, String pathTranslated, Boolean useAppConfig)
+   在 System.Web.HttpApplication.MapHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 18:52:10,605 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/Defa3.aspx
+System.Web.HttpException: 文件“/Defa3.aspx”不存在。
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.System.Web.IHttpHandlerFactory2.GetHandler(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.HttpApplication.MapHttpHandler(HttpContext context, String requestType, VirtualPath path, String pathTranslated, Boolean useAppConfig)
+   在 System.Web.HttpApplication.MapHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 19:03:18,942 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/Defa3.aspx
+System.Web.HttpException: 文件“/Defa3.aspx”不存在。
+   在 System.Web.UI.Util.CheckVirtualFileExists(VirtualPath virtualPath)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultInternal(VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVPathBuildResultWithNoAssert(HttpContext context, VirtualPath virtualPath, Boolean noBuild, Boolean allowCrossApp, Boolean allowBuildInPrecompile)
+   在 System.Web.Compilation.BuildManager.GetVirtualPathObjectFactory(VirtualPath virtualPath, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.Compilation.BuildManager.CreateInstanceFromVirtualPath(VirtualPath virtualPath, Type requiredBaseType, HttpContext context, Boolean allowCrossApp, Boolean noAssert)
+   在 System.Web.UI.PageHandlerFactory.GetHandlerHelper(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.UI.PageHandlerFactory.System.Web.IHttpHandlerFactory2.GetHandler(HttpContext context, String requestType, VirtualPath virtualPath, String physicalPath)
+   在 System.Web.HttpApplication.MapHttpHandler(HttpContext context, String requestType, VirtualPath path, String pathTranslated, Boolean useAppConfig)
+   在 System.Web.HttpApplication.MapHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 19:04:48,420 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/favicon.ico
+System.Web.HttpException: 文件不存在。
+   在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 19:04:51,748 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:04:51,766 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:04:56,015 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：<br/><strong>客户机IP</strong>：::1<br /><strong>错误地址</strong>：http://localhost:2436/favicon.ico
+System.Web.HttpException: 文件不存在。
+   在 System.Web.StaticFileHandler.GetFileInfo(String virtualPathWithPathInfo, String physicalPath, HttpResponse response)
+   在 System.Web.StaticFileHandler.ProcessRequestInternal(HttpContext context)
+   在 System.Web.DefaultHttpHandler.BeginProcessRequest(HttpContext context, AsyncCallback callback, Object state)
+   在 System.Web.HttpApplication.CallHandlerExecutionStep.System.Web.HttpApplication.IExecutionStep.Execute()
+   在 System.Web.HttpApplication.ExecuteStep(IExecutionStep step, Boolean& completedSynchronously)
+记录时间：2017-11-09 19:04:56,895 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:04:56,907 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:04:59,510 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:04:59,520 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:00,329 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:00,868 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:01,018 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:01,038 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:01,167 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:01,321 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:01,493 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:01,511 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:01,561 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:01,570 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:01,624 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:01,633 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:41,537 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:41,546 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:42,461 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:42,995 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:43,046 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:43,055 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:43,956 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:44,023 线程ID:[10] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+记录时间：2017-11-09 19:05:44,244 线程ID:[14] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Error:测试WEB
+记录时间：2017-11-09 19:05:44,255 线程ID:[14] 日志级别：ERROR 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：WEB程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 WebAppLog4netDemo._Default.Page_Load(Object sender, EventArgs e) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\Default.aspx.cs:行号 19
+[Footer]

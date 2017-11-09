@@ -1,0 +1,7 @@
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\bin\log4net.config
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\bin\WebAppLog4netDemo.dll
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\bin\WebAppLog4netDemo.pdb
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\bin\log4net.dll
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\obj\Debug\WebAppLog4netDemo.csprojResolveAssemblyReference.cache
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\obj\Debug\WebAppLog4netDemo.dll
+J:\GitRepository\MyProject\ConsoleAppLog4netDemo\WebAppLog4netDemo\WebAppLog4netDemo\obj\Debug\WebAppLog4netDemo.pdb

@@ -1,0 +1,36 @@
+[Header]
+记录时间：2017-11-09 18:47:25,400 线程ID:[6] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 18:47:25,448 线程ID:[6] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+[Footer]
+[Header]
+记录时间：2017-11-09 18:51:29,305 线程ID:[11] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 18:51:29,324 线程ID:[11] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:04:51,747 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:04:51,748 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:04:56,893 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:04:56,894 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:04:59,509 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:04:59,510 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:00,328 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:00,328 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:01,017 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:01,018 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:01,166 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:01,167 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:01,492 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:01,492 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:01,560 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:01,561 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:01,623 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:01,624 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:41,536 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:41,536 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:42,461 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:42,461 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:43,046 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:43,046 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:43,955 线程ID:[10] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:43,956 线程ID:[10] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+记录时间：2017-11-09 19:05:44,241 线程ID:[14] 日志级别：DEBUG 来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Debug:测试WEB
+记录时间：2017-11-09 19:05:44,242 线程ID:[14] 日志级别：INFO  来自类名：WebAppLog4netDemo.LogHelper property:[(null)] - 消息内容：Info:测试WEB
+[Footer]

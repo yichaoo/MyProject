@@ -1,0 +1,27 @@
+[Header]
+记录时间：2017-11-09 18:13:27,312 线程ID:[9] 日志级别：ERROR 来自类名：ConsoleApp.Log4netDemo property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:15:35,911 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.Log4netDemo property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:17:03,911 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.Log4netDemo property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:19:47,071 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.Log4netDemo property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:32:27,861 线程ID:[9] 日志级别：ERROR 来自类名：ConsoleApp.Log4netDemo property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:35:07,423 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.LogHelper property:[(null)] - 消息内容：Error:测试
+[Footer]
+[Header]
+记录时间：2017-11-09 18:38:29,603 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.LogHelper property:[(null)] - 消息内容：Error:测试
+记录时间：2017-11-09 18:38:29,672 线程ID:[10] 日志级别：ERROR 来自类名：ConsoleApp.LogHelper property:[(null)] - 消息内容：程序报错了
+System.FormatException: 输入字符串的格式不正确。
+   在 System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   在 System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   在 System.Convert.ToInt32(String value)
+   在 ConsoleApp.Log4netDemo.Main(String[] args) 位置 J:\GitRepository\MyProject\ConsoleAppLog4netDemo\ConsoleAppLog4netDemo\Program.cs:行号 19
+[Footer]
