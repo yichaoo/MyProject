@@ -1,0 +1,7 @@
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\obj\x86\Debug\TopshelfDemo.csprojResolveAssemblyReference.cache
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\bin\Debug\TopshelfDemo.exe.config
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\bin\Debug\TopshelfDemo.exe
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\bin\Debug\TopshelfDemo.pdb
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\bin\Debug\Topshelf.dll
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\obj\x86\Debug\TopshelfDemo.exe
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\TopshelfDemo\obj\x86\Debug\TopshelfDemo.pdb

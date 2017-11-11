@@ -1,0 +1,13 @@
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\quartz_jobs.xml
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\log4net.config
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\ConsoleAppQuartzDemo1.exe.config
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\ConsoleAppQuartzDemo1.exe
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\ConsoleAppQuartzDemo1.pdb
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\Common.Logging.Core.dll
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\Common.Logging.dll
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\log4net.dll
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\Quartz.dll
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\obj\x86\Debug\ConsoleAppQuartzDemo1.csprojResolveAssemblyReference.cache
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\obj\x86\Debug\ConsoleAppQuartzDemo1.exe
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\obj\x86\Debug\ConsoleAppQuartzDemo1.pdb
+J:\GitRepository\demo\Quartz.NET-2.5\demo_lyc\ConsoleAppQuartzDemo1\bin\Debug\Topshelf.dll

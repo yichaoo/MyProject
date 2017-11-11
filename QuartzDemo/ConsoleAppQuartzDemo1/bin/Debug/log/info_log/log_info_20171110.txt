@@ -1,0 +1,19 @@
+[Header]
+记录时间：2017-11-10 19:39:21,368 线程ID:[4] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：SampleService已启动
+记录时间：2017-11-10 19:39:24,022 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-1] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:24
+记录时间：2017-11-10 19:39:30,001 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-2] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:30
+记录时间：2017-11-10 19:39:36,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-3] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:36
+记录时间：2017-11-10 19:39:42,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-4] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:42
+记录时间：2017-11-10 19:39:48,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-5] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:48
+记录时间：2017-11-10 19:39:54,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-6] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:39:54
+记录时间：2017-11-10 19:40:00,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-7] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:00
+记录时间：2017-11-10 19:40:06,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-8] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:06
+记录时间：2017-11-10 19:40:12,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-9] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:12
+记录时间：2017-11-10 19:40:18,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-10] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:18
+记录时间：2017-11-10 19:40:24,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-1] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:24
+记录时间：2017-11-10 19:40:30,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-2] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:30
+记录时间：2017-11-10 19:40:36,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-3] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:36
+记录时间：2017-11-10 19:40:42,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-4] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:42
+记录时间：2017-11-10 19:40:48,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-5] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:48
+记录时间：2017-11-10 19:40:54,000 线程ID:[LYCExampleDefaultQuartzScheduler_Worker-6] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：jobGroup1.jobName1 executing at 2017年11月10日19:40:54
+记录时间：2017-11-10 19:40:54,464 线程ID:[19] 日志级别：INFO  来自类名：Common.LogHelper property:[(null)] - 消息内容：SampleService已停止
