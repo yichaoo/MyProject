@@ -1,0 +1,8 @@
+J:\2017\AD\ADWindowsAuthService\ADServices\bin\ADServices.dll
+J:\2017\AD\ADWindowsAuthService\ADServices\bin\ADServices.pdb
+J:\2017\AD\ADWindowsAuthService\ADServices\obj\Debug\ADServices.dll
+J:\2017\AD\ADWindowsAuthService\ADServices\obj\Debug\ADServices.pdb
+J:\2018\中治南方单点登陆\AD\ADWindowsAuthService\ADServices\bin\ADServices.dll
+J:\2018\中治南方单点登陆\AD\ADWindowsAuthService\ADServices\bin\ADServices.pdb
+J:\2018\中治南方单点登陆\AD\ADWindowsAuthService\ADServices\obj\Debug\ADServices.dll
+J:\2018\中治南方单点登陆\AD\ADWindowsAuthService\ADServices\obj\Debug\ADServices.pdb
