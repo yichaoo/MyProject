@@ -1,0 +1,11 @@
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\weixin_testcode.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\weixin_testcode.pdb
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\bin\Newtonsoft.Json.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\obj\Debug\weixin_testcode.dll
+J:\2017\weixin_test\weixin_testcode\weixin_testcode\obj\Debug\weixin_testcode.pdb
+E:\GitHub\MyProject\toupiao\obj\Debug\weixin_testcode.csprojResolveAssemblyReference.cache
+E:\GitHub\MyProject\toupiao\obj\Debug\weixin_testcode.dll
+E:\GitHub\MyProject\toupiao\obj\Debug\weixin_testcode.pdb
+E:\GitHub\MyProject\toupiao\bin\weixin_testcode.dll
+E:\GitHub\MyProject\toupiao\bin\weixin_testcode.pdb
+E:\GitHub\MyProject\toupiao\bin\Newtonsoft.Json.dll
