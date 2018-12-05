@@ -13,10 +13,10 @@ namespace weixin_testcode
         protected void Page_Load(object sender, EventArgs e)
         {
 
-            this.txtResponseContent.Enabled = false;
-            this.txtRandomRequest.Enabled = false;
-            this.txtRefererUrl.Enabled = false;
-            this.txtUrl.Enabled = false;
+            //this.txtResponseContent.Enabled = false;
+            //this.txtRandomRequest.Enabled = false;
+            //this.txtRefererUrl.Enabled = false;
+            //this.txtUrl.Enabled = false;
             if (IsPostBack == false)
             {
                 this.txtUrl.Text = "https://es.hbsrcfwj.cn/toupiaos/fabulous?refresh";
@@ -86,7 +86,7 @@ namespace weixin_testcode
                 {
                     int _60Seconds = (new Random()).Next(1, 59);
                     int _60Minutes = (new Random()).Next(1, 59);
-                    string createDate = DateTime.Now.AddMinutes(_60Minutes).AddSeconds(_60Seconds).ToString("yyyy-MM-dd HH:mm:ss"); //时间随机
+                    string createDate = DateTime.Now.AddSeconds(_60Seconds).ToString("yyyy-MM-dd HH:mm:ss"); //时间随机
                     requestText += "{\"postId\":\"" + postID + "\",\"createDate\":\"" + createDate + "\",";
                     requestText += "\"userInfo\":{\"nickName\":\"" + strNickName + "\",\"gender\":" + gender + ",\"language\":\"zh_CN\",\"city\":\"\",\"province\":\"\",\"country\":\"\",";
                     requestText += "\"avatarUrl\":\"https://wx.qlogo.cn/mmopen/vi_32/" + str92 + "\"},";
@@ -156,6 +156,11 @@ namespace weixin_testcode
         protected void btnRandom_Click(object sender, EventArgs e)
         {
             //CreateRequest();
+        }
+
+        protected void txtRefererUrl_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
     }
